@@ -1,2 +1,6 @@
 python-telegram-bot
 requests
+pandas
+openpyxl
+python-dotenv
+flask
